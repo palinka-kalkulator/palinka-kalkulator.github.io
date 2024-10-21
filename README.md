@@ -1,0 +1,1 @@
+# palinka-kalkulator.github.io
